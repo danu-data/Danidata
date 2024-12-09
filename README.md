@@ -19,4 +19,5 @@ Connect with me:
 https://www.linkedin.com/in/daniel-mamo-87451a28a/
 
 Languages and Tools:
-html5 java mssql mysql python Microsoft Excel Power BI Tableau
+https://www.python.org/
+
